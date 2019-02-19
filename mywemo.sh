@@ -2,7 +2,9 @@
 #
 # WeMo Control Script
 # 
-# rich@netmagi.com
+# By shreddd
+#
+# Adapted from script by rich@netmagi.com
 #
 # Usage: ./wemo_control IP_ADDRESS ON/OFF/GETSTATE/GETSIGNALSTRENGTH/GETFRIENDLYNAME
 #
